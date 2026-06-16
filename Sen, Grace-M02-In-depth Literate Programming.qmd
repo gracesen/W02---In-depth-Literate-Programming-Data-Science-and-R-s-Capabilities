@@ -1,0 +1,87 @@
+---
+title: "M02-Introduction to Data Science in R-Reflection"
+author: "Grace Sen"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+::: {.callout-note}
+
+\
+This reflection summarizes what I learned about reproducible research, Quarto, the Tidyverse ecosystem, popular R packages, and the R versus Python debate.
+
+\
+:::
+
+# Summarize the video presentation
+
+> Summarize the video presentation about the reproducibility crisis.
+
+The video explained that many research studies are difficult to reproduce because the data, code, or methods are not always shared clearly. This can make it hard for others to verify results. I learned that reproducibility is important because research should be transparent and repeatable.
+
+## New things I've learned about reproducible data science and literate coding
+
+One thing I learned is that Quarto allows code, results, and explanations to be stored in the same document. This makes projects easier to understand and share with others. It also helps keep everything organized in one place.
+
+## Thoughts about the reproducible crisis in my field
+
+> How can Quarto help address the concerns you have about reproducibility in your line of work?
+
+In business and data analytics, decisions are often based on data. If an analysis cannot be reproduced, people may not trust the results. Quarto can help by documenting the code, output, and explanations in one file so that others can easily follow the process.
+
+# Summarize the instructor's lectures
+
+> Summarize the instructor's lectures in the previous module about Quarto.
+
+The lectures showed how powerful Quarto can be. I was surprised that one document can be used to create reports, presentations, websites, and dashboards. I can see myself using Quarto for class notes, assignments, and project reports in the future.
+
+# Tidyverse ecosystem in R
+
+The Tidyverse provides tools that make working with data easier and more organized. Packages such as `dplyr` and `ggplot2` help users clean, analyze, and visualize data. I learned that the Tidyverse promotes a consistent style of coding that is easier to read and understand.
+
+> What can you do with R?
+
+-   Data analysis
+
+-   Data visualization
+
+-   Statistical modeling
+
+-   Machine learning
+
+-   Report generation
+
+-   Dashboard development
+
+# Two packages beyond the Tidyverse ecosystem, base R, and Quarto that could enhance my job/career
+
+## **Shiny**
+
+I found **Shiny** interesting because it allows users to create interactive dashboards and web applications.
+
+## **Reticulate**
+
+**Reticulate** stood out because it allows R and Python to work together. Since many companies use both languages, this could be very useful in the future.
+
+# R vs. Python
+
+> What is your take on the R vs. Python debate?
+
+I do not think one language is better than the other. R is strong for statistics and data visualization, while Python is widely used for machine learning and software development. I think it is more important to understand both and use the right tool for the task. Quarto makes collaboration easier because people can work with either language and still create a shared report.
+
+# Push your QMD and HTML files to GitHub repo
+
+GitHub Repository URL: <https://github.com/gracesen/W02---In-depth-Literate-Programming-Data-Science-and-R-s-Capabilities>
+
+# Publish your document to GitHub Pages.
+
+GitHub Pages URL: <https://gracesen.github.io/W02---In-depth-Literate-Programming-Data-Science-and-R-s-Capabilities/>
